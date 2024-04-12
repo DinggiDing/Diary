@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string></string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Arita-buriB.otf</string>
+		<string>Arita-buriHL.otf</string>
+		<string>Arita-buriL.otf</string>
+		<string>Arita-buriM.otf</string>
+		<string>Arita-buriSB.otf</string>
+		<string>SUIT-Regular.otf</string>
+		<string>SUIT-Bold.otf</string>
+		<string>SUIT-Medium.otf</string>
+		<string>SUIT-SemiBold.otf</string>
+	</array>
+</dict>
+</plist>
